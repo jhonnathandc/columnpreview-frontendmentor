@@ -2,14 +2,14 @@
 
 This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
-[Access the deploy here.](https://nftpreview-frontendmentor.vercel.app/)
+[Access the deploy here.](https://columnpreview-frontendmentor.vercel.app/)
 <br>
 <br>
-[access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+[Access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 
 ## Demonstration
+![Desktop + Mobile - 5](https://github.com/jhonnathandc/columnpreview-frontendmentor/assets/82620787/82a688a5-f89b-4c49-bd3d-0f50c45541ce)
 
-![Wireframe - 1](https://user-images.githubusercontent.com/82620787/235288053-9179feed-ce48-4712-96ce-f4a5fb2d3bfb.png)
 
 ## More Informations
 
